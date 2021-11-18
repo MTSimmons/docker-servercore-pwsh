@@ -23,4 +23,4 @@ Docker Build .
 ```
 Docker run -it <containerID>
 ```
-  ![Build and Run Image](/gif/BuildAndRunImage.GIF)
+  ![Build and Run Image](/gif/BuildAndRun.GIF)
